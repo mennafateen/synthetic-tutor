@@ -1,5 +1,7 @@
 ## Introduction
 This repository contains the code used for the experiments in the paper "Developing a Tutoring Dialog Dataset to Optimize LLMs for Educational Use" by Fateen et. al. (2024).
+## Dataset
+The dataset can be accessed [here](https://huggingface.co/datasets/menna/tutor-synthetic-v2)
 
 ## Requirements
 To install requirements:

@@ -6,8 +6,10 @@ The dataset can be accessed [here](https://huggingface.co/datasets/menna/tutor-s
 ## Requirements
 To install requirements:
 
-1. Create a conda environemnt with specified python version
+1. Create a conda environment with specified Python version
+```
 conda create -n synthetic-tutor python=3.10
+```
 2. Install the required libraries by running
 
 ```
